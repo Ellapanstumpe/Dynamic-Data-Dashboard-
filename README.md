@@ -1,4 +1,4 @@
-https://github.com/user-attachments/files/16859804/Untitled_Report.pdf
+[Untitled_Report.pdf](https://github.com/user-attachments/files/16859804/Untitled_Report.pdf)
 
 # Dynamic-Data-Dashboard
 This project involves creating an interactive dashboard using Looker Studio to visualize and analyze data from an Excel file. The dashboard provides insights into various metrics and trends, helping to make data-driven decisions.
