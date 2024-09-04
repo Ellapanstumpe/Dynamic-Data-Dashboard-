@@ -12,7 +12,7 @@ Data Visualization: I gained experience in creating compelling visualizations th
 Dashboard Design: I learned best practices for designing user-friendly dashboards that are both informative and aesthetically pleasing.
 Collaboration: I explored the collaborative features of Looker Studio, which allow multiple users to work on the same dashboard simultaneously.
 # How to Use
-Clone the Repository: Clone this repository to your local machine using git clone <repository-url>.
+Clone the Repository: Clone this repository to your local machine using git clone <repository-https://github.com/Ellapanstumpe/Dynamic-Data-Dashboard->.
 Open the Dashboard: Open the Looker Studio dashboard using the provided link: https://lookerstudio.google.com/s/lCWx_cMDkxU
 Attach Data File: Attach the Excel data file to the dashboard to visualize the data.
 Explore the Dashboard: Use the interactive features to explore the data and gain insights.
